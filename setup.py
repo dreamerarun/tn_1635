@@ -16,8 +16,8 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='your_name',
-    maintainer_email='your_email@example.com',
+    maintainer='ARUN M',
+    maintainer_email='arunm22@karunya.edu.in',
     description='Enhanced detector for Task 3A - Fruit and Fertiliser Detection',
     license='Apache License 2.0',
     tests_require=['pytest'],
@@ -26,4 +26,5 @@ setup(
             'detector_node = enhanced_detector.enhanced_detector:main',
         ],
     },
+
 )
